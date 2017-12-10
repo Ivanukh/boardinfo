@@ -2,7 +2,7 @@
 
 | manufacturer | image | product | description | CPU | RAM |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [FriendlyArm](/docs/FriendlyArm/README.md) | ![](/assets/FriendlyArm/NanoPi NEO/top.jpg) | [NanoPi NEO](/docs/FriendlyArm/NanoPi NEO/README.md) |  | CPU: Allwinner H3, Quad-core Cortex-A7 Up to 1.2GHz | DDR3 RAM: 256MB/512MB |
+| [FriendlyArm](/docs/FriendlyArm/README.md) | ![](/assets/FriendlyArm/NanoPi_NEO/top.jpg) | [NanoPi NEO](/docs/FriendlyArm/NanoPi_NEO/README.md) |  | CPU: Allwinner H3, Quad-core Cortex-A7 Up to 1.2GHz | DDR3 RAM: 256MB/512MB |
 | [Hardkernel](/docs/Hardkernel/README.md) | ![](/assets/Hardkernel/ODROID-XU4/main.jpg) | [ODROID-XU4](/docs/Hardkernel/ODROID-XU4/README.md) |  | Samsung Exynos5422 Cortex™-A15 2Ghz and Cortex™-A7 Octa core CPUs | 2Gbyte LPDDR3 RAM PoP stacked |
 
 # Other boards

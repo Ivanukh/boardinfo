@@ -13,7 +13,7 @@
 
 # Boards
 
-#### [NanoPi NEO](/docs/FriendlyArm/NanoPi NEO/README.md)![](/assets/FriendlyArm/NanoPi NEO/top.jpg)
+#### [NanoPi NEO](/docs/FriendlyArm/NanoPi_NEO/README.md)![](/assets/FriendlyArm/NanoPi_NEO/top.jpg)
 
 
 

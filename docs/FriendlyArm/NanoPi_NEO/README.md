@@ -2,7 +2,7 @@
 
 | top | bottom |
 | :--- | :--- |
-| ![](/assets/FriendlyArm/NanoPi NEO/top.jpg) | ![](/assets/FriendlyArm/NanoPi NEO/bottom.jpg) |
+| ![](/assets/FriendlyArm/NanoPi_NEO/top.jpg) | ![](/assets/FriendlyArm/NanoPi_NEO/bottom.jpg) |
 
 ## Hardware Spec
 
